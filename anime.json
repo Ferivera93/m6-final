@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name": "Akira",
+        "genre": "Seinen",
+        "year": "1988",
+        "author": "Katsuhiro Otomo"
+    },
+    "2": {
+        "name": "Dragon Ball",
+        "genre": "Shonen",
+        "year": "1986",
+        "author": "Akira Toriyama"
+    },
+    "3": {
+        "name": "Sailor Moon",
+        "genre": "Shojo",
+        "year": "1992",
+        "author": "Naoko Takeuchi"
+    },
+    "4": {
+        "name": "Naruto",
+        "genre": "Shonen",
+        "year": "2002",
+        "author": "Masashi Kishimoto"
+    },
+    "5": {
+        "name": "Neon Genesis Evangelion",
+        "genre": "Mecha",
+        "year": "1995",
+        "author": "Yoshiyuki Sadamoto"
+    }
+}
