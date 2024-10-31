@@ -9,12 +9,12 @@ app.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`)
 })
 
-// Helper para errores 500
+// Helper error 500
 function handleError500(res, errorMsg) {
     return res.status(500).json({ error: errorMsg || 'Internal Server Error' });
 };
 
-// Helper para errores 404
+// Helper error 404
 function handleError404(res, errorMsg) {
     return res.status(404).json({ error: errorMsg || 'Source Not Found' });
 };
